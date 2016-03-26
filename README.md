@@ -1,4 +1,4 @@
-# react-input-number
+# react-inputNumber
 
 React Input Number is a Hack to fix the issues with HTML Form Input type=number in Mobile and Desktops.
 
@@ -9,7 +9,7 @@ It Gives you an option of choosing just numeric keypad (just the digits, no . (d
 ### Installation
 
 ```
-$ npm install react-input-number  --save
+$ npm install react-inputNumber  --save
 ```
 
 ### Usage
@@ -18,7 +18,7 @@ Import it in your Component
 
 ```JavaScript
 
-import InputNumber from 'react-input-number';
+import InputNumber from 'react-inputNumber';
 
 ```
 
