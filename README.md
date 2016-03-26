@@ -2,9 +2,9 @@
 
 React Input Just Numbers is a Hack to fix the issues with HTML Form Input type=number in Mobile and Desktops.
 
-It eliminates the issue of accidentally changing numeric values when a user scroll's over the focused input as well as changing values with Up and Down Keys. (In Desktop)
+It eliminates the issue of accidentally changing numeric values when a user scroll's over the focused input as well as changing values with Up and Down Keys(In Desktop).
 It opens a Numeric Keypad in Both Android and IOS Devices.
-It Gives you an option of choosing just numeric keypad (just the digits, no . (dot) character) for IOS using 'onlydigits' attribute. Android has a . (dot) in its default Numeric Keypad.
+It Gives you an option of choosing just numeric keypad (just the digits, no .(dot) character) for IOS using 'onlydigits' attribute. Android has a .(dot) in its default Numeric Keypad.
 
 ### Installation
 
