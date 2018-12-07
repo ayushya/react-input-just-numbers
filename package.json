@@ -1,6 +1,6 @@
 {
   "name": "react-input-just-numbers",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "React Form Input Number with Support for Mobile Devices.",
   "main": "dist/index.js",
   "scripts": {
