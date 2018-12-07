@@ -1,11 +1,11 @@
 {
   "name": "react-input-just-numbers",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "React Form Input Number with Support for Mobile Devices.",
   "main": "dist/index.js",
   "scripts": {
     "build": "babel index.js > dist/index.js",
-    "prepublish": "npm run build"
+    "prepare": "npm run build"
   },
   "repository": {
     "type": "git",
@@ -27,9 +27,25 @@
   },
   "homepage": "https://github.com/ayushya/react-input-just-numbers#readme",
   "devDependencies": {
-    "babel-cli": "^6.6.5",
-    "babel-preset-es2015": "^6.6.0",
-    "babel-preset-react": "^6.5.0",
-    "babel-preset-stage-0": "^6.5.0"
+    "@babel/cli": "^7.2.0",
+    "@babel/core": "^7.2.0",
+    "@babel/plugin-proposal-class-properties": "^7.2.1",
+    "@babel/plugin-proposal-decorators": "^7.2.0",
+    "@babel/plugin-proposal-do-expressions": "^7.2.0",
+    "@babel/plugin-proposal-export-default-from": "^7.2.0",
+    "@babel/plugin-proposal-export-namespace-from": "^7.2.0",
+    "@babel/plugin-proposal-function-bind": "^7.2.0",
+    "@babel/plugin-proposal-function-sent": "^7.2.0",
+    "@babel/plugin-proposal-json-strings": "^7.2.0",
+    "@babel/plugin-proposal-logical-assignment-operators": "^7.2.0",
+    "@babel/plugin-proposal-nullish-coalescing-operator": "^7.2.0",
+    "@babel/plugin-proposal-numeric-separator": "^7.2.0",
+    "@babel/plugin-proposal-optional-chaining": "^7.2.0",
+    "@babel/plugin-proposal-pipeline-operator": "^7.2.0",
+    "@babel/plugin-proposal-throw-expressions": "^7.2.0",
+    "@babel/plugin-syntax-dynamic-import": "^7.2.0",
+    "@babel/plugin-syntax-import-meta": "^7.2.0",
+    "@babel/preset-env": "^7.2.0",
+    "@babel/preset-react": "^7.0.0"
   }
 }
